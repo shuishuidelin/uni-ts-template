@@ -1,18 +1,11 @@
-# drama-shop
-#### 这里是剧本杀 商家端
+# uni-ts-template
+#### 这里是uni-app 初始项目模板
+
+by yms
+
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
 ```
 
 ### Customize configuration
