@@ -1,0 +1,19 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "剧本杀店铺",
+				"enablePullDownRefresh": true,
+				"backgroundTextStyle": "light",
+				"backgroundColor": "#222342"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#222342",
+		"backgroundColor": "#222342"
+	}
+}
